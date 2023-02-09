@@ -1,0 +1,206 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.text-primary {
+    color: #FD6E0A;
+}
+
+/* banner styles */
+.banner {
+    margin: 0 200px;
+    margin-right: 200px;
+    width: auto;
+    background-image: url(../images/banner1.png);
+    height: 800px;
+}
+
+.banner-text {
+    text-align: right;
+    padding-top: 216px;
+    padding-right: 230px;
+}
+
+.banner-text h1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+}
+
+.comments {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+}
+
+.body-data {
+    display: flex;
+}
+
+.person {
+    margin-top: 131px;
+    margin-left: 206px;
+    width: 569px;
+}
+
+.about-me {
+    margin-top: 370px;
+    margin-left: 87px;
+    margin-right: 322px;
+}
+
+.failor {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+
+.contry {
+    margin-top: 16px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+}
+
+.my-plans-section {
+    margin-top: 130px;
+    margin-left: 230px;
+    margin-right: 229px;
+}
+
+.my-plan {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.icons {
+    margin-top: 40px;
+    display: flex;
+}
+
+.text-1-4 {
+    display: flex;
+}
+
+.icon-1 {
+    height: 92.96px;
+    margin-left: 200px;
+}
+
+.icon-2 {
+    height: 92.96px;
+    margin-left: 190px;
+}
+
+.icon-3 {
+    height: 92.96px;
+    margin-left: 200px;
+}
+
+.icon-4 {
+    height: 92.96px;
+    margin-left: 200px;
+}
+
+.web-dev {
+    font-size: 30px;
+    margin-left: 109px;
+    font-family: 'Work Sans', sans-serif;
+    font-style: normal;
+    color: #151414;
+}
+
+.js {
+    font-size: 30px;
+    margin-left: 72px;
+    font-family: 'Work Sans', sans-serif;
+    font-style: normal;
+    color: #151414;
+}
+
+.smk-hbt {
+    font-size: 30px;
+    margin-left: 119px;
+    font-family: 'Work Sans', sans-serif;
+    font-style: normal;
+    color: #151414;
+}
+
+.ecom {
+    font-size: 30px;
+    margin-left: 112px;
+    font-family: 'Work Sans', sans-serif;
+    font-style: normal;
+    color: #151414;
+}
+
+.text-2-4 {
+    display: flex;
+}
+
+.want-s {
+    font-size: 25px;
+    margin-left: 160px;
+    font-family: 'Work Sans', sans-serif;
+    font-style: normal;
+    color: #151414;
+}
+
+.want-l {
+    font-size: 25px;
+    margin-left: 99px;
+    font-family: 'Work Sans', sans-serif;
+    font-style: normal;
+    color: #151414;
+}
+
+.want-e {
+    font-size: 25px;
+    margin-left: 130px;
+    font-family: 'Work Sans', sans-serif;
+    font-style: normal;
+    color: #151414;
+}
+
+.want-d {
+    font-size: 25px;
+    margin-left: 115px;
+    font-family: 'Work Sans', sans-serif;
+    font-style: normal;
+    color: #151414;
+}
+
+.watch {
+    margin-top: 130px;
+    margin-left: 335px;
+}
+.call-section-grd {
+    margin-top: -435px;
+    margin-left: 0px;
+}
+
+.posi-min {
+    margin-top: -260px;
+    margin-left: 400px;
+    margin-right: 423px;
+    font-size: 40px;
+    color: white;
+    font-family: 'Work Sans';
+    font-style: normal;
+}
+
+.call{
+    margin-left: 400px;
+    margin-top: 20px;
+    color: #F15B22;
+    border-radius: 5px;
+}
