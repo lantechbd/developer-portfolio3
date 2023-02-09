@@ -69,7 +69,8 @@
     line-height: 26px;
     color: #444343;
 }
-.mark{
+
+.mark {
     margin-top: 16px;
     font-family: 'Work Sans';
     font-style: normal;
@@ -191,6 +192,7 @@
     margin-top: 130px;
     margin-left: 335px;
 }
+
 .call-section-grd {
     margin-top: -435px;
     margin-left: 0px;
@@ -206,13 +208,14 @@
     font-style: normal;
 }
 
-.call{
+.call {
     margin-left: 400px;
     margin-top: 20px;
     color: #F15B22;
     border-radius: 5px;
 }
-.footer{
+
+.footer {
     background: #151414;
     color: white;
     margin-top: 220px;
@@ -221,22 +224,25 @@
     padding-left: 335px;
 }
 
-.text{
+.text {
     font-size: 14px;
     color: #FFFFFF;
     margin-top: 16px;
 }
-.email{
+
+.email {
     font-size: 14px;
     color: #FFFFFF;
     margin-top: 16px;
 }
-.phone{
+
+.phone {
     font-size: 14px;
     color: #FFFFFF;
     margin-top: 16px;
 }
-.subsc{
+
+.subsc {
     background: #151414;
     color: #FFFFFF;
     padding-right: 650px;
@@ -244,7 +250,7 @@
     margin-top: -277px;
 }
 
-.subsc p.em{
+.subsc p.em {
     text-align: left;
     color: #FFFFFF;
     margin-top: 20px;
@@ -256,7 +262,8 @@
     padding-bottom: 15px;
     border-radius: 5px;
 }
-.subsc p.sb{
+
+.subsc p.sb {
     text-align: center;
     color: #F15B22;
     margin-top: 15px;
@@ -270,11 +277,21 @@
     font-size: 25px;
 }
 
-.social{
+.social {
     padding-left: 335px;
     margin-top: 15px;
+    display: flex;
 }
-.margin{
+
+.fb {
+    margin-right: 15px;
+}
+
+.tt {
+    margin-right: 15px;
+}
+
+.margin {
     background-color: #151414;
     color: #F15B22;
     padding-bottom: 100px;
